@@ -10,6 +10,8 @@
 # Description:       starts the PHP FastCGI Process Manager daemon
 ### END INIT INFO
 
+#Specify the dir of yours.
+
 prefix=/Data/server/php
 exec_prefix=/Data/server/php
 
