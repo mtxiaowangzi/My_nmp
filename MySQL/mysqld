@@ -43,6 +43,7 @@
 # If you change base dir, you must also change datadir. These may get
 # overwritten by settings in the MySQL configuration files.
 
+#Specify the dir of yours.
 basedir=/Data/server/mysql
 datadir=/Data/server/mysql/data
 
