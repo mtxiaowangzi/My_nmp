@@ -5,6 +5,7 @@
 # and send mail to ruijie at gmail dot com.
 #            ruijie.qiao@gmail.com
 
+#Specify the dir of yours.
 nginxd=/Data/server/nginx/sbin/nginx
 nginx_config=/Data/server/nginx/conf/nginx.conf
 nginx_pid=/Data/server/nginx/logs/nginx.pid
