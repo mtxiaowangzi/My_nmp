@@ -1,4 +1,7 @@
 #!/bin/sh
+# Install libiconv-1.13.1, zlib-1.2.11, freetype-2.7.1, libpng-1.2.50, libevent-2.1.8, libmcrypt-2.5.8, pcre-8.40 and jpeg.6 for PHP 7.1.3
+# (c) 2017 mtxiaowangzi http://eveino.com/64.html
+# https://github.com/mtxiaowangzi/My_nmp/blob/master/Pre_set/install_env_php.sh
 
 CPU_NUM=$(cat /proc/cpuinfo | grep processor | wc -l)
 if [ ! -f libiconv-1.13.1.tar.gz ];then
