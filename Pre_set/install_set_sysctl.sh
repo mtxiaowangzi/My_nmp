@@ -1,4 +1,7 @@
 #!/bin/sh
+# Set sysctl
+# (c) 2017 mtxiaowangzi http://eveino.com
+# https://github.com/mtxiaowangzi/My_nmp/blob/master/Pre_set/install_set_sysctl.sh
 
 \cp /etc/sysctl.conf /etc/sysctl.conf.bak
 
